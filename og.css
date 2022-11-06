@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+#name{
+    color: white;
+    font-family: 'Anton';
+}
+hr{
+    color: rgb(255, 255, 255);
+}
+#infor{
+    font-family:'Bitter', serif;
+    color: white;
+}
+#headName{
+    font-family: 'Anton';
+}
+#cheatsHeader{
+    color: white;
+    padding-left: 80px;
+}
+#CheatsParagraph{
+    color: white;
+    padding-left: 80px;
+    font-family:'Bitter', serif;
+}
+#cheats{
+    color: #fff;
+    padding-left: 80px;
+    font-family:'Bitter', serif;
+}
+.card-img-top:hover{
+    width: 470px;
+}
+.card-img-top{
+    transition: 0.7s;
+}
